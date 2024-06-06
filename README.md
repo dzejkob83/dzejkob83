@@ -1,6 +1,6 @@
-certified python hater\n
-c & java dev\n
-trying to do cool shit\n
+certified python hater
+c & java dev
+trying to do cool shit
 into microcontrollers and overall IoT (not arduinos tho)
 
 <!---
