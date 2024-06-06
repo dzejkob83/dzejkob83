@@ -1,4 +1,5 @@
 certified python hater
+backend is my thing
 c & java dev
 trying to do cool shit
 into microcontrollers and overall IoT (not arduinos tho)
